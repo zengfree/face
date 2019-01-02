@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\人脸识别客户端前端界面\人脸识别客户端前端界面\bin\x64\Debug\人脸识别客户端前端界面.exe
+C:\Users\Lenovo\Desktop\人脸识别客户端前端界面\人脸识别客户端前端界面\bin\x64\Debug\AForge.Controls.dll
+C:\Users\Lenovo\Desktop\人脸识别客户端前端界面\人脸识别客户端前端界面\bin\x64\Debug\AForge.Video.DirectShow.dll
+C:\Users\Lenovo\Desktop\人脸识别客户端前端界面\人脸识别客户端前端界面\bin\x64\Debug\人脸识别客户端前端界面.exe.config
+C:\Users\Lenovo\Desktop\人脸识别客户端前端界面\人脸识别客户端前端界面\obj\x64\Debug\人脸识别客户端前端界面.Form1.resources
+C:\Users\Lenovo\Desktop\人脸识别客户端前端界面\人脸识别客户端前端界面\obj\x64\Debug\人脸识别客户端前端界面.Form2.resources
+C:\Users\Lenovo\Desktop\人脸识别客户端前端界面\人脸识别客户端前端界面\obj\x64\Debug\人脸识别客户端前端界面.Form3.resources
+C:\Users\Lenovo\Desktop\人脸识别客户端前端界面\人脸识别客户端前端界面\obj\x64\Debug\人脸识别客户端前端界面.Form4.resources
+C:\Users\Lenovo\Desktop\人脸识别客户端前端界面\人脸识别客户端前端界面\obj\x64\Debug\人脸识别客户端前端界面.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\人脸识别客户端前端界面\人脸识别客户端前端界面\obj\x64\Debug\人脸识别客户端前端界面.Resource1.resources
+C:\Users\Lenovo\Desktop\人脸识别客户端前端界面\人脸识别客户端前端界面\obj\x64\Debug\人脸识别客户端前端界面.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\人脸识别客户端前端界面\人脸识别客户端前端界面\obj\x64\Debug\人脸识别客户端前端界面.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\人脸识别客户端前端界面\人脸识别客户端前端界面\obj\x64\Debug\人脸识别客户端前端界面.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\人脸识别客户端前端界面\人脸识别客户端前端界面\obj\x64\Debug\人脸识别客户端前端界面.exe
+C:\Users\Lenovo\Desktop\人脸识别客户端前端界面\人脸识别客户端前端界面\obj\x64\Debug\人脸识别客户端前端界面.pdb
+C:\Users\Lenovo\Desktop\人脸识别客户端前端界面\人脸识别客户端前端界面\bin\x64\Debug\人脸识别客户端前端界面.pdb
